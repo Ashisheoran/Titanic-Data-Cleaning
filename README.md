@@ -2,13 +2,13 @@
 
 This project performs data preprocessing on the Titanic dataset using Python and libraries like Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn.
 
-## 📦 Dataset
+##  Dataset
 
 - File: `Titanic-Dataset.csv`
 - Source: [Kaggle Titanic Competition](https://www.kaggle.com/c/titanic/data) (or a manually created dataset)
 - Contains information about passengers, such as age, class, fare, gender, and survival status.
 
-## ✅ Steps Performed
+## Steps Performed
 
 1. **Import Libraries & Dataset**
    - Load the CSV file into a Pandas DataFrame.
@@ -31,11 +31,11 @@ This project performs data preprocessing on the Titanic dataset using Python and
 6. **Outlier Detection & Removal**
    - Used **IQR method** and **boxplots** to detect and remove outliers from numerical columns.
 
-## 📊 Visualization
+## Visualization
 
 - Boxplots are used to visually inspect the spread of numerical features and detect outliers.
 
-## 🧪 Libraries Required
+## Libraries Required
 
 Install them with:
 
